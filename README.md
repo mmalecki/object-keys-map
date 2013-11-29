@@ -1,5 +1,5 @@
 # object-keys-map
-[![Build Status](https://travis-ci.org/mmalecki/object-keys-map.png?branch=master)](https://travis-ci.org/mmalecki/objfilter)
+[![Build Status](https://travis-ci.org/mmalecki/object-keys-map.png?branch=master)](https://travis-ci.org/mmalecki/object-keys-map)
 
 `Array.prototype.map` for object keys.
 
