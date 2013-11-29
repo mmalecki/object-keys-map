@@ -1,0 +1,11 @@
+{
+  "name": "object-keys-map",
+  "version": "1.0.0",
+  "description": "`Array.prototype.map` for object keys",
+  "keywords": ["object", "map", "keys"],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "scripts": {
+    "test": "node test/simple-test.js"
+  },
+  "license": "MIT"
+}
