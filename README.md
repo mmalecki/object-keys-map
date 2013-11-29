@@ -7,7 +7,7 @@
 
 ```js
 var assert = require('assert');
-var objmap = require('../');
+var objmap = require('object-keys-map');
 
 var o1 = {
   foo: 'bar',
